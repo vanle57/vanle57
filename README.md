@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi guys, I'm Van 👋 :woman_technologist:
 
-<!--
-**vanle57/vanle57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!
 
-Here are some ideas to get you started:
+I'm an iOS developer from Viet Nam :vietnam:. Now, I have 4 years of experience in Swift. Besides, I am interested in Flutter and in my self-learn for almost 1 year. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am writing a blog about iOS and Flutter and publishing it on my Github and [FxStudio web site](https://fxstudio.dev/).
+
+Your business can contact me for **Freelancer job** making iOS applications or Flutter applications. Let's [contact me]()! 
+
+### :star: Skills
+
+![Apple](https://img.shields.io/badge/-apple-black?style=for-the-badge&logo=apple)![iOS](https://img.shields.io/badge/-iOS-000000?logo=ios&logoColor=white&style=for-the-badge)![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)![Bloc](https://img.shields.io/badge/-blOc-brightgreen?logoColor=white&style=for-the-badge)![MVVM](https://img.shields.io/badge/-mvvm-ED1965?logoColor=white&style=for-the-badge)![Viper](https://img.shields.io/badge/-viper-FFAE33?logoColor=white&style=for-the-badge)![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)![Google Maps](https://img.shields.io/badge/-google%20maps-4285F4?logoColor=white&style=for-the-badge&logo=google-maps)![Google Ads](https://img.shields.io/badge/-google%20ads-4285F4?logoColor=white&style=for-the-badge&logo=google-ads)![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### :writing_hand: Recent post
+:pencil2: **Flavor Configurations - Flutter:**
+- Github doc: https://github.com/vanle57/flutter-flavor
+- FxStudio post: https://fxstudio.dev/flavor-configurations-flutter/
+
+:pencil2: **Customize Run and Debug - Flutter**
+- Github doc: https://github.com/vanle57/flutter-customize-run
+- FxStudio post: https://fxstudio.dev/customize-run-and-debug-flutter/
+
+### :phone: Contact me
+
+
