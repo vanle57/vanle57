@@ -21,6 +21,10 @@ Your business now can [contact me](https://github.com/vanle57#phone-contact-me) 
 - Github doc: https://github.com/vanle57/flutter-customize-run
 - FxStudio post: https://fxstudio.dev/customize-run-and-debug-flutter/
 
+:pencil2: **My self-study process - Flutter**
+- Github doc: https://github.com/vanle57/flutter-self-study-process
+- FxStudio post: 
+
 ### :phone: Contact me
 | [![Facebook](https://github.com/vanle57/flutter-customize-run/blob/main/images/facebook.png)](https://www.facebook.com/van.may.750/) |    [![Gmail](https://github.com/vanle57/flutter-customize-run/blob/main/images/google.png)](mailto:lehongvan.develop@gmail.com) |  [![Linkedin](https://github.com/vanle57/flutter-customize-run/blob/main/images/linkedin.png)]()   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
