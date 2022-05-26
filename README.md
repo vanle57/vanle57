@@ -23,7 +23,7 @@ Your business now can [contact me](https://github.com/vanle57#phone-contact-me) 
 
 :pencil2: **My self-study process - Flutter**
 - Github doc: https://github.com/vanle57/flutter-self-study-process
-- FxStudio post: 
+- FxStudio post: https://fxstudio.dev/minh-da-tu-hoc-flutter-nhu-the-nao/
 
 ### :phone: Contact me
 | [![Facebook](https://github.com/vanle57/flutter-customize-run/blob/main/images/facebook.png)](https://www.facebook.com/van.may.750/) |    [![Gmail](https://github.com/vanle57/flutter-customize-run/blob/main/images/google.png)](mailto:lehongvan.develop@gmail.com) |  [![Linkedin](https://github.com/vanle57/flutter-customize-run/blob/main/images/linkedin.png)]()   |
