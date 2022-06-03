@@ -21,7 +21,7 @@ Your business now can [contact me](https://github.com/vanle57#phone-contact-me) 
 - Github doc: https://github.com/vanle57/flutter-customize-run
 - FxStudio post: https://fxstudio.dev/customize-run-and-debug-flutter/
 
-:pencil2: **My self-study process - Flutter**
+:pencil2: **How did I learn Flutter myself?**
 - Github doc: https://github.com/vanle57/flutter-self-study-process
 - FxStudio post: https://fxstudio.dev/minh-da-tu-hoc-flutter-nhu-the-nao/
 
