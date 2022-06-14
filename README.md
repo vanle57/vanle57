@@ -29,6 +29,10 @@ Your business now can [contact me](https://github.com/vanle57#phone-contact-me) 
 - Github doc: https://github.com/vanle57/flutter-method-channel
 - FxStudio post: https://fxstudio.dev/platform-specific-code-with-methodchannel-flutter/
 
+:pencil2: **--dart-define in Flutter and its power**
+- Github doc: https://github.com/vanle57/flutter-dart-define
+- FxStudio post: 
+
 ### :phone: Contact me
 | [![Facebook](https://github.com/vanle57/flutter-customize-run/blob/main/images/facebook.png)](https://www.facebook.com/van.may.750/) |    [![Gmail](https://github.com/vanle57/flutter-customize-run/blob/main/images/google.png)](mailto:lehongvan.develop@gmail.com) |  [![Linkedin](https://github.com/vanle57/flutter-customize-run/blob/main/images/linkedin.png)]()   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
