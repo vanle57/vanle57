@@ -4,7 +4,7 @@ Welcome to my profile!
 
 I'm an iOS developer from Viet Nam :vietnam:. Now, I have 4 years of experience in Swift. Besides, I am interested in Flutter and in my self-learn for almost 1 year. 
 
-I am writing a blog about iOS and Flutter and publishing it on [my repositories](https://github.com/vanle57?tab=repositories) and [FxStudio web site](https://fxstudio.dev/).
+I am writing a blog about iOS and Flutter and publishing it on [my repositories](https://github.com/vanle57?tab=repositories), [FxStudio website](https://fxstudio.dev/) and [200lab website](https://200lab.io/blog/author/vanle)
 
 Your business now can [contact me](https://github.com/vanle57#phone-contact-me) for **Freelancer job** making iOS applications or Flutter applications.
 
